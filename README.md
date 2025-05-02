@@ -37,7 +37,7 @@ O layout base da aplicação foi fornecido pela Rocketseat via Figma:
 
 ```bash
 git clone https://github.com/WilliHumphreys/desafio_to_do_list.git
-
+```
 ## 🧪 Possíveis melhorias
 
 - [ ] Persistência com AsyncStorage  
