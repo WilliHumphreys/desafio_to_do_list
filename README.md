@@ -36,7 +36,7 @@ O layout base da aplicação foi fornecido pela Rocketseat via Figma:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/WilliHumphreys/desafio_to_do_list.git
 
 ## 🧪 Possíveis melhorias
 
